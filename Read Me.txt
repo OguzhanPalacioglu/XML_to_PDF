@@ -1,0 +1,1 @@
+To be able to run this Python file, the application named "wkhtmltox-0.12.6-1.msvc2015-win64.exe" must be installed.
